@@ -1,0 +1,1756 @@
+{
+    "Creatures": [
+        {
+            "DNA": "ABBA",
+            "health": 30,
+            "attack": 4,
+            "resist": 6,
+            "speed": 5,
+            "genelength": 4
+        },
+        {
+            "DNA": "AA",
+            "health": 30,
+            "attack": 67,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "BB",
+            "health": 30,
+            "attack": 5,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "BBABA",
+            "health": 42,
+            "attack": 1,
+            "resist": 8,
+            "speed": 11,
+            "genelength": 3
+        },
+        {
+            "DNA": "BBABA",
+            "health": 53,
+            "attack": 11,
+            "resist": 3,
+            "speed": 0,
+            "genelength": 5
+        },
+        {
+            "DNA": "AAAA",
+            "health": 30,
+            "attack": 5,
+            "resist": 1,
+            "speed": 2,
+            "genelength": 4
+        },
+        {
+            "DNA": "BA",
+            "health": 30,
+            "attack": 13,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "BBBB",
+            "health": 30,
+            "attack": 42,
+            "resist": 3,
+            "speed": 0,
+            "genelength": 4
+        },
+        {
+            "DNA": "BA",
+            "health": 30,
+            "attack": 2,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "AB",
+            "health": 19,
+            "attack": 11,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "BA",
+            "health": 45,
+            "attack": 87,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "BBBB",
+            "health": 200,
+            "attack": 11,
+            "resist": 3,
+            "speed": 0,
+            "genelength": 4
+        },
+        {
+            "DNA": "BBAB",
+            "health": 42,
+            "attack": 4,
+            "resist": 1,
+            "speed": 2,
+            "genelength": 4
+        },
+        {
+            "DNA": "BB",
+            "health": 30,
+            "attack": 77,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "AABB",
+            "health": 125,
+            "attack": 13,
+            "resist": 1,
+            "speed": 34,
+            "genelength": 4
+        },
+        {
+            "DNA": "AA",
+            "health": 14,
+            "attack": 1,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "ABBA",
+            "health": 30,
+            "attack": 77,
+            "resist": 3,
+            "speed": 10,
+            "genelength": 4
+        },
+        {
+            "DNA": "AAAA",
+            "health": 30,
+            "attack": 10,
+            "resist": 6,
+            "speed": 0,
+            "genelength": 4
+        },
+        {
+            "DNA": "BA",
+            "health": 30,
+            "attack": 31,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "BAAA",
+            "health": 30,
+            "attack": 5,
+            "resist": 3,
+            "speed": 0,
+            "genelength": 4
+        },
+        {
+            "DNA": "BB",
+            "health": 34,
+            "attack": 42,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "BBBA",
+            "health": 42,
+            "attack": 23,
+            "resist": 3,
+            "speed": 0,
+            "genelength": 4
+        },
+        {
+            "DNA": "AA",
+            "health": 125,
+            "attack": 3,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "AA",
+            "health": 8,
+            "attack": 10,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "BAAAA",
+            "health": 30,
+            "attack": 7,
+            "resist": 5,
+            "speed": 3,
+            "genelength": 5
+        },
+        {
+            "DNA": "BB",
+            "health": 12,
+            "attack": 1,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "BABA",
+            "health": 45,
+            "attack": 10,
+            "resist": 3,
+            "speed": 3,
+            "genelength": 4
+        },
+        {
+            "DNA": "BBAA",
+            "health": 30,
+            "attack": 7,
+            "resist": 8,
+            "speed": 4,
+            "genelength": 4
+        },
+        {
+            "DNA": "AABA",
+            "health": 23,
+            "attack": 10,
+            "resist": 1,
+            "speed": 0,
+            "genelength": 4
+        },
+        {
+            "DNA": "AB",
+            "health": 30,
+            "attack": 45,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "AB",
+            "health": 21,
+            "attack": 11,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "AABAA",
+            "health": 125,
+            "attack": 6,
+            "resist": 3,
+            "speed": 0,
+            "genelength": 5
+        },
+        {
+            "DNA": "BAAAA",
+            "health": 45,
+            "attack": 11,
+            "resist": 3,
+            "speed": 0,
+            "genelength": 5
+        },
+        {
+            "DNA": "BBBAA",
+            "health": 45,
+            "attack": 45,
+            "resist": 3,
+            "speed": 3,
+            "genelength": 3
+        },
+        {
+            "DNA": "BA",
+            "health": 62,
+            "attack": 5,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "ABBB",
+            "health": 30,
+            "attack": 2,
+            "resist": 6,
+            "speed": 10,
+            "genelength": 4
+        },
+        {
+            "DNA": "BBA",
+            "health": 30,
+            "attack": 75,
+            "resist": 10,
+            "speed": 0,
+            "genelength": 3
+        },
+        {
+            "DNA": "AAAA",
+            "health": 19,
+            "attack": 31,
+            "resist": 2,
+            "speed": 5,
+            "genelength": 4
+        },
+        {
+            "DNA": "BABA",
+            "health": 490,
+            "attack": 87,
+            "resist": 3,
+            "speed": 0,
+            "genelength": 4
+        },
+        {
+            "DNA": "BBAA",
+            "health": 42,
+            "attack": 32,
+            "resist": 1,
+            "speed": 3,
+            "genelength": 4
+        },
+        {
+            "DNA": "ABABA",
+            "health": 30,
+            "attack": 32,
+            "resist": 1,
+            "speed": 0,
+            "genelength": 3
+        },
+        {
+            "DNA": "AB",
+            "health": 125,
+            "attack": 4,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "ABAA",
+            "health": 30,
+            "attack": 5,
+            "resist": 5,
+            "speed": 1,
+            "genelength": 4
+        },
+        {
+            "DNA": "ABAB",
+            "health": 30,
+            "attack": 23,
+            "resist": 1,
+            "speed": 0,
+            "genelength": 4
+        },
+        {
+            "DNA": "BABA",
+            "health": 30,
+            "attack": 5,
+            "resist": 6,
+            "speed": 5,
+            "genelength": 4
+        },
+        {
+            "DNA": "BABB",
+            "health": 30,
+            "attack": 2,
+            "resist": 3,
+            "speed": 0,
+            "genelength": 4
+        },
+        {
+            "DNA": "BBBAA",
+            "health": 12,
+            "attack": 3,
+            "resist": 1,
+            "speed": 5,
+            "genelength": 4
+        },
+        {
+            "DNA": "ABAB",
+            "health": 8,
+            "attack": 11,
+            "resist": 1,
+            "speed": 0,
+            "genelength": 4
+        },
+        {
+            "DNA": "BAAAA",
+            "health": 30,
+            "attack": 13,
+            "resist": 1,
+            "speed": 3,
+            "genelength": 5
+        },
+        {
+            "DNA": "AB",
+            "health": 30,
+            "attack": 42,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "AA",
+            "health": 30,
+            "attack": 10,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "BAA",
+            "health": 200,
+            "attack": 7,
+            "resist": 1,
+            "speed": 0,
+            "genelength": 3
+        },
+        {
+            "DNA": "AABBA",
+            "health": 19,
+            "attack": 10,
+            "resist": 6,
+            "speed": 11,
+            "genelength": 4
+        },
+        {
+            "DNA": "ABBAA",
+            "health": 24,
+            "attack": 23,
+            "resist": 1,
+            "speed": 10,
+            "genelength": 5
+        },
+        {
+            "DNA": "BAAB",
+            "health": 30,
+            "attack": 10,
+            "resist": 1,
+            "speed": 0,
+            "genelength": 4
+        },
+        {
+            "DNA": "AABB",
+            "health": 32,
+            "attack": 6,
+            "resist": 1,
+            "speed": 0,
+            "genelength": 4
+        },
+        {
+            "DNA": "ABABA",
+            "health": 14,
+            "attack": 45,
+            "resist": 10,
+            "speed": 0,
+            "genelength": 4
+        },
+        {
+            "DNA": "AABBAAA",
+            "health": 30,
+            "attack": 11,
+            "resist": 3,
+            "speed": 0,
+            "genelength": 7
+        },
+        {
+            "DNA": "BBBB",
+            "health": 30,
+            "attack": 2,
+            "resist": 1,
+            "speed": 11,
+            "genelength": 4
+        },
+        {
+            "DNA": "AAAA",
+            "health": 8,
+            "attack": 67,
+            "resist": 1,
+            "speed": 3,
+            "genelength": 4
+        },
+        {
+            "DNA": "BAAB",
+            "health": 30,
+            "attack": 5,
+            "resist": 10,
+            "speed": 0,
+            "genelength": 4
+        },
+        {
+            "DNA": "BBAA",
+            "health": 30,
+            "attack": 5,
+            "resist": 3,
+            "speed": 0,
+            "genelength": 4
+        },
+        {
+            "DNA": "AB",
+            "health": 30,
+            "attack": 42,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "AAAA",
+            "health": 30,
+            "attack": 1,
+            "resist": 3,
+            "speed": 0,
+            "genelength": 4
+        },
+        {
+            "DNA": "AABB",
+            "health": 125,
+            "attack": 6,
+            "resist": 1,
+            "speed": 0,
+            "genelength": 4
+        },
+        {
+            "DNA": "BBBB",
+            "health": 490,
+            "attack": 11,
+            "resist": 50,
+            "speed": 0,
+            "genelength": 4
+        },
+        {
+            "DNA": "ABAB",
+            "health": 8,
+            "attack": 31,
+            "resist": 3,
+            "speed": 10,
+            "genelength": 4
+        },
+        {
+            "DNA": "AA",
+            "health": 125,
+            "attack": 1,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "AA",
+            "health": 30,
+            "attack": 10,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "BAAA",
+            "health": 30,
+            "attack": 10,
+            "resist": 4,
+            "speed": 1,
+            "genelength": 4
+        },
+        {
+            "DNA": "BAAB",
+            "health": 53,
+            "attack": 4,
+            "resist": 45,
+            "speed": 13,
+            "genelength": 4
+        },
+        {
+            "DNA": "BBBA",
+            "health": 30,
+            "attack": 6,
+            "resist": 3,
+            "speed": 6,
+            "genelength": 4
+        },
+        {
+            "DNA": "BB",
+            "health": 2,
+            "attack": 4,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "BBBB",
+            "health": 6,
+            "attack": 4,
+            "resist": 3,
+            "speed": 0,
+            "genelength": 4
+        },
+        {
+            "DNA": "BAB",
+            "health": 43,
+            "attack": 10,
+            "resist": 3,
+            "speed": 0,
+            "genelength": 3
+        },
+        {
+            "DNA": "BBB",
+            "health": 30,
+            "attack": 75,
+            "resist": 1,
+            "speed": 0,
+            "genelength": 3
+        },
+        {
+            "DNA": "AB",
+            "health": 30,
+            "attack": 5,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "BBBBA",
+            "health": 30,
+            "attack": 11,
+            "resist": 6,
+            "speed": 12,
+            "genelength": 3
+        },
+        {
+            "DNA": "BAAB",
+            "health": 2,
+            "attack": 7,
+            "resist": 8,
+            "speed": 11,
+            "genelength": 4
+        },
+        {
+            "DNA": "BA",
+            "health": 45,
+            "attack": 3,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "BBA",
+            "health": 45,
+            "attack": 6,
+            "resist": 7,
+            "speed": 0,
+            "genelength": 3
+        },
+        {
+            "DNA": "BA",
+            "health": 45,
+            "attack": 5,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "BABAB",
+            "health": 42,
+            "attack": 2,
+            "resist": 3,
+            "speed": 0,
+            "genelength": 3
+        },
+        {
+            "DNA": "AABB",
+            "health": 30,
+            "attack": 13,
+            "resist": 1,
+            "speed": 0,
+            "genelength": 4
+        },
+        {
+            "DNA": "AA",
+            "health": 8,
+            "attack": 10,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "BABA",
+            "health": 45,
+            "attack": 5,
+            "resist": 13,
+            "speed": 0,
+            "genelength": 4
+        },
+        {
+            "DNA": "AABBA",
+            "health": 24,
+            "attack": 3,
+            "resist": 3,
+            "speed": 0,
+            "genelength": 4
+        },
+        {
+            "DNA": "BB",
+            "health": 30,
+            "attack": 1,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "AAAB",
+            "health": 125,
+            "attack": 13,
+            "resist": 1,
+            "speed": 0,
+            "genelength": 4
+        },
+        {
+            "DNA": "BBBB",
+            "health": 30,
+            "attack": 4,
+            "resist": 6,
+            "speed": 11,
+            "genelength": 4
+        },
+        {
+            "DNA": "BBA",
+            "health": 53,
+            "attack": 1,
+            "resist": 3,
+            "speed": 0,
+            "genelength": 3
+        },
+        {
+            "DNA": "BBAA",
+            "health": 30,
+            "attack": 31,
+            "resist": 5,
+            "speed": 5,
+            "genelength": 4
+        },
+        {
+            "DNA": "AABA",
+            "health": 30,
+            "attack": 3,
+            "resist": 1,
+            "speed": 3,
+            "genelength": 4
+        },
+        {
+            "DNA": "BBBA",
+            "health": 30,
+            "attack": 4,
+            "resist": 3,
+            "speed": 0,
+            "genelength": 4
+        },
+        {
+            "DNA": "BA",
+            "health": 30,
+            "attack": 10,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "BBA",
+            "health": 45,
+            "attack": 32,
+            "resist": 7,
+            "speed": 0,
+            "genelength": 3
+        },
+        {
+            "DNA": "AAA",
+            "health": 125,
+            "attack": 10,
+            "resist": 3,
+            "speed": 0,
+            "genelength": 3
+        },
+        {
+            "DNA": "BABAA",
+            "health": 30,
+            "attack": 10,
+            "resist": 6,
+            "speed": 0,
+            "genelength": 3
+        },
+        {
+            "DNA": "BBBB",
+            "health": 53,
+            "attack": 42,
+            "resist": 1,
+            "speed": 0,
+            "genelength": 4
+        },
+        {
+            "DNA": "AA",
+            "health": 8,
+            "attack": 134,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "BBA",
+            "health": 45,
+            "attack": 32,
+            "resist": 12,
+            "speed": 0,
+            "genelength": 3
+        },
+        {
+            "DNA": "ABAA",
+            "health": 30,
+            "attack": 654,
+            "resist": 5,
+            "speed": 4,
+            "genelength": 4
+        },
+        {
+            "DNA": "BA",
+            "health": 53,
+            "attack": 10,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "BABBA",
+            "health": 53,
+            "attack": 10,
+            "resist": 3,
+            "speed": 0,
+            "genelength": 3
+        },
+        {
+            "DNA": "BA",
+            "health": 45,
+            "attack": 7,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "BABA",
+            "health": 45,
+            "attack": 10,
+            "resist": 100,
+            "speed": 0,
+            "genelength": 4
+        },
+        {
+            "DNA": "BA",
+            "health": 30,
+            "attack": 34,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "BA",
+            "health": 45,
+            "attack": 2,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "BAA",
+            "health": 53,
+            "attack": 67,
+            "resist": 3,
+            "speed": 0,
+            "genelength": 3
+        },
+        {
+            "DNA": "ABA",
+            "health": 32,
+            "attack": 42,
+            "resist": 1,
+            "speed": 0,
+            "genelength": 3
+        },
+        {
+            "DNA": "BAAB",
+            "health": 490,
+            "attack": 8,
+            "resist": 4,
+            "speed": 0,
+            "genelength": 4
+        },
+        {
+            "DNA": "AB",
+            "health": 125,
+            "attack": 23,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "AA",
+            "health": 30,
+            "attack": 6,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "AB",
+            "health": 125,
+            "attack": 4,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "BBAA",
+            "health": 30,
+            "attack": 23,
+            "resist": 3,
+            "speed": 1,
+            "genelength": 4
+        },
+        {
+            "DNA": "BA",
+            "health": 30,
+            "attack": 6,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "BA",
+            "health": 45,
+            "attack": 10,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "BAA",
+            "health": 30,
+            "attack": 67,
+            "resist": 7,
+            "speed": 0,
+            "genelength": 3
+        },
+        {
+            "DNA": "ABAA",
+            "health": 30,
+            "attack": 2,
+            "resist": 1,
+            "speed": 0,
+            "genelength": 4
+        },
+        {
+            "DNA": "AA",
+            "health": 19,
+            "attack": 10,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "BBB",
+            "health": 30,
+            "attack": 13,
+            "resist": 3,
+            "speed": 0,
+            "genelength": 3
+        },
+        {
+            "DNA": "AABBA",
+            "health": 34,
+            "attack": 10,
+            "resist": 3,
+            "speed": 2,
+            "genelength": 3
+        },
+        {
+            "DNA": "AB",
+            "health": 21,
+            "attack": 45,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "BABB",
+            "health": 65,
+            "attack": 10,
+            "resist": 1,
+            "speed": 9,
+            "genelength": 4
+        },
+        {
+            "DNA": "BA",
+            "health": 62,
+            "attack": 8,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "ABBA",
+            "health": 19,
+            "attack": 11,
+            "resist": 3,
+            "speed": 6,
+            "genelength": 4
+        },
+        {
+            "DNA": "AAAB",
+            "health": 24,
+            "attack": 10,
+            "resist": 1,
+            "speed": 0,
+            "genelength": 4
+        },
+        {
+            "DNA": "AA",
+            "health": 125,
+            "attack": 10,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "AAAA",
+            "health": 30,
+            "attack": 6,
+            "resist": 3,
+            "speed": 0,
+            "genelength": 4
+        },
+        {
+            "DNA": "AABB",
+            "health": 30,
+            "attack": 10,
+            "resist": 6,
+            "speed": 10,
+            "genelength": 4
+        },
+        {
+            "DNA": "AAA",
+            "health": 125,
+            "attack": 6,
+            "resist": 12,
+            "speed": 0,
+            "genelength": 3
+        },
+        {
+            "DNA": "AAA",
+            "health": 30,
+            "attack": 10,
+            "resist": 1,
+            "speed": 0,
+            "genelength": 3
+        },
+        {
+            "DNA": "AAABA",
+            "health": 125,
+            "attack": 10,
+            "resist": 5,
+            "speed": 0,
+            "genelength": 3
+        },
+        {
+            "DNA": "AABA",
+            "health": 30,
+            "attack": 2,
+            "resist": 1,
+            "speed": 0,
+            "genelength": 4
+        },
+        {
+            "DNA": "BABA",
+            "health": 12,
+            "attack": 7,
+            "resist": 3,
+            "speed": 1,
+            "genelength": 4
+        },
+        {
+            "DNA": "AAAB",
+            "health": 8,
+            "attack": 10,
+            "resist": 2,
+            "speed": 0,
+            "genelength": 4
+        },
+        {
+            "DNA": "ABBA",
+            "health": 30,
+            "attack": 11,
+            "resist": 6,
+            "speed": 0,
+            "genelength": 4
+        },
+        {
+            "DNA": "BAAB",
+            "health": 42,
+            "attack": 32,
+            "resist": 1,
+            "speed": 11,
+            "genelength": 4
+        },
+        {
+            "DNA": "BA",
+            "health": 30,
+            "attack": 10,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "ABAA",
+            "health": 34,
+            "attack": 75,
+            "resist": 3,
+            "speed": 0,
+            "genelength": 4
+        },
+        {
+            "DNA": "BAAB",
+            "health": 30,
+            "attack": 1,
+            "resist": 1,
+            "speed": 34,
+            "genelength": 4
+        },
+        {
+            "DNA": "BABB",
+            "health": 6,
+            "attack": 10,
+            "resist": 6,
+            "speed": 0,
+            "genelength": 4
+        },
+        {
+            "DNA": "BAABA",
+            "health": 30,
+            "attack": 2,
+            "resist": 1,
+            "speed": 0,
+            "genelength": 4
+        },
+        {
+            "DNA": "BAA",
+            "health": 30,
+            "attack": 3,
+            "resist": 7,
+            "speed": 0,
+            "genelength": 3
+        },
+        {
+            "DNA": "ABBB",
+            "health": 23,
+            "attack": 42,
+            "resist": 3,
+            "speed": 0,
+            "genelength": 4
+        },
+        {
+            "DNA": "ABAA",
+            "health": 24,
+            "attack": 32,
+            "resist": 4,
+            "speed": 5,
+            "genelength": 4
+        },
+        {
+            "DNA": "AABA",
+            "health": 30,
+            "attack": 31,
+            "resist": 3,
+            "speed": 3,
+            "genelength": 4
+        },
+        {
+            "DNA": "BBAA",
+            "health": 30,
+            "attack": 11,
+            "resist": 2,
+            "speed": 5,
+            "genelength": 4
+        },
+        {
+            "DNA": "ABABA",
+            "health": 30,
+            "attack": 11,
+            "resist": 2,
+            "speed": 11,
+            "genelength": 5
+        },
+        {
+            "DNA": "AAAAAB",
+            "health": 8,
+            "attack": 10,
+            "resist": 3,
+            "speed": 3,
+            "genelength": 6
+        },
+        {
+            "DNA": "ABBB",
+            "health": 49,
+            "attack": 1,
+            "resist": 6,
+            "speed": 0,
+            "genelength": 4
+        },
+        {
+            "DNA": "BB",
+            "health": 30,
+            "attack": 31,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "ABBA",
+            "health": 300,
+            "attack": 6,
+            "resist": 1,
+            "speed": 3,
+            "genelength": 4
+        },
+        {
+            "DNA": "AABBA",
+            "health": 30,
+            "attack": 10,
+            "resist": 3,
+            "speed": 0,
+            "genelength": 5
+        },
+        {
+            "DNA": "BA",
+            "health": 62,
+            "attack": 10,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "BABB",
+            "health": 30,
+            "attack": 2,
+            "resist": 1,
+            "speed": 0,
+            "genelength": 4
+        },
+        {
+            "DNA": "AAAA",
+            "health": 30,
+            "attack": 10,
+            "resist": 7,
+            "speed": 4,
+            "genelength": 4
+        },
+        {
+            "DNA": "AABA",
+            "health": 23,
+            "attack": 7,
+            "resist": 100,
+            "speed": 0,
+            "genelength": 4
+        },
+        {
+            "DNA": "AAAA",
+            "health": 23,
+            "attack": 10,
+            "resist": 3,
+            "speed": 0,
+            "genelength": 4
+        },
+        {
+            "DNA": "AABA",
+            "health": 30,
+            "attack": 10,
+            "resist": 3,
+            "speed": 4,
+            "genelength": 4
+        },
+        {
+            "DNA": "BBAB",
+            "health": 12,
+            "attack": 2,
+            "resist": 8,
+            "speed": 0,
+            "genelength": 4
+        },
+        {
+            "DNA": "AAAA",
+            "health": 30,
+            "attack": 7,
+            "resist": 5,
+            "speed": 0,
+            "genelength": 4
+        },
+        {
+            "DNA": "AA",
+            "health": 8,
+            "attack": 7,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "BB",
+            "health": 30,
+            "attack": 1,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "AB",
+            "health": 8,
+            "attack": 4,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "BA",
+            "health": 53,
+            "attack": 2,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "ABBBA",
+            "health": 300,
+            "attack": 1,
+            "resist": 6,
+            "speed": 0,
+            "genelength": 5
+        },
+        {
+            "DNA": "ABBBA",
+            "health": 125,
+            "attack": 1,
+            "resist": 2,
+            "speed": 1,
+            "genelength": 5
+        },
+        {
+            "DNA": "AB",
+            "health": 300,
+            "attack": 42,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "BABA",
+            "health": 45,
+            "attack": 6,
+            "resist": 1,
+            "speed": 1,
+            "genelength": 4
+        },
+        {
+            "DNA": "BAA",
+            "health": 12,
+            "attack": 10,
+            "resist": 1,
+            "speed": 0,
+            "genelength": 3
+        },
+        {
+            "DNA": "ABBA",
+            "health": 300,
+            "attack": 4,
+            "resist": 6,
+            "speed": 1,
+            "genelength": 4
+        },
+        {
+            "DNA": "BAB",
+            "health": 53,
+            "attack": 7,
+            "resist": 1,
+            "speed": 0,
+            "genelength": 3
+        },
+        {
+            "DNA": "AABA",
+            "health": 8,
+            "attack": 8,
+            "resist": 6,
+            "speed": 0,
+            "genelength": 4
+        },
+        {
+            "DNA": "BA",
+            "health": 490,
+            "attack": 2,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "BA",
+            "health": 30,
+            "attack": 10,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "BAAA",
+            "health": 30,
+            "attack": 10,
+            "resist": 100,
+            "speed": 4,
+            "genelength": 4
+        },
+        {
+            "DNA": "ABAA",
+            "health": 30,
+            "attack": 75,
+            "resist": 2,
+            "speed": 5,
+            "genelength": 4
+        },
+        {
+            "DNA": "BAAA",
+            "health": 43,
+            "attack": 10,
+            "resist": 7,
+            "speed": 0,
+            "genelength": 4
+        },
+        {
+            "DNA": "BBABA",
+            "health": 45,
+            "attack": 23,
+            "resist": 5,
+            "speed": 10,
+            "genelength": 5
+        },
+        {
+            "DNA": "BBBB",
+            "health": 30,
+            "attack": 1,
+            "resist": 6,
+            "speed": 0,
+            "genelength": 4
+        },
+        {
+            "DNA": "BBBB",
+            "health": 30,
+            "attack": 1,
+            "resist": 3,
+            "speed": 0,
+            "genelength": 4
+        },
+        {
+            "DNA": "BA",
+            "health": 30,
+            "attack": 10,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "AAAB",
+            "health": 49,
+            "attack": 10,
+            "resist": 1,
+            "speed": 10,
+            "genelength": 4
+        },
+        {
+            "DNA": "BB",
+            "health": 45,
+            "attack": 11,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "BBBA",
+            "health": 30,
+            "attack": 7,
+            "resist": 3,
+            "speed": 0,
+            "genelength": 4
+        },
+        {
+            "DNA": "AAB",
+            "health": 125,
+            "attack": 31,
+            "resist": 6,
+            "speed": 0,
+            "genelength": 3
+        },
+        {
+            "DNA": "BA",
+            "health": 45,
+            "attack": 1,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "AB",
+            "health": 30,
+            "attack": 1,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "BABA",
+            "health": 43,
+            "attack": 134,
+            "resist": 1,
+            "speed": 3,
+            "genelength": 4
+        },
+        {
+            "DNA": "BB",
+            "health": 45,
+            "attack": 23,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "BB",
+            "health": 30,
+            "attack": 6,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "BABBA",
+            "health": 2,
+            "attack": 5,
+            "resist": 6,
+            "speed": 0,
+            "genelength": 5
+        },
+        {
+            "DNA": "BA",
+            "health": 30,
+            "attack": 5,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "BB",
+            "health": 45,
+            "attack": 31,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "BBABA",
+            "health": 490,
+            "attack": 3,
+            "resist": 1,
+            "speed": 0,
+            "genelength": 5
+        },
+        {
+            "DNA": "AA",
+            "health": 19,
+            "attack": 10,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "ABAB",
+            "health": 30,
+            "attack": 45,
+            "resist": 4,
+            "speed": 1,
+            "genelength": 4
+        },
+        {
+            "DNA": "BAAB",
+            "health": 12,
+            "attack": 5,
+            "resist": 7,
+            "speed": 1,
+            "genelength": 4
+        },
+        {
+            "DNA": "BBAA",
+            "health": 30,
+            "attack": 1,
+            "resist": 1,
+            "speed": 4,
+            "genelength": 4
+        },
+        {
+            "DNA": "BBABA",
+            "health": 53,
+            "attack": 5,
+            "resist": 5,
+            "speed": 9,
+            "genelength": 5
+        },
+        {
+            "DNA": "AA",
+            "health": 30,
+            "attack": 67,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "BBB",
+            "health": 12,
+            "attack": 42,
+            "resist": 3,
+            "speed": 0,
+            "genelength": 3
+        },
+        {
+            "DNA": "AABA",
+            "health": 8,
+            "attack": 10,
+            "resist": 1,
+            "speed": 3,
+            "genelength": 4
+        },
+        {
+            "DNA": "AABBA",
+            "health": 30,
+            "attack": 7,
+            "resist": 3,
+            "speed": 11,
+            "genelength": 5
+        },
+        {
+            "DNA": "BB",
+            "health": 6,
+            "attack": 2,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "AABA",
+            "health": 49,
+            "attack": 10,
+            "resist": 1,
+            "speed": 0,
+            "genelength": 4
+        },
+        {
+            "DNA": "AABA",
+            "health": 30,
+            "attack": 10,
+            "resist": 13,
+            "speed": 4,
+            "genelength": 4
+        },
+        {
+            "DNA": "BBB",
+            "health": 30,
+            "attack": 11,
+            "resist": 3,
+            "speed": 0,
+            "genelength": 3
+        },
+        {
+            "DNA": "AB",
+            "health": 30,
+            "attack": 1,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "AB",
+            "health": 34,
+            "attack": 32,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "BA",
+            "health": 30,
+            "attack": 10,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "ABBA",
+            "health": 30,
+            "attack": 4,
+            "resist": 3,
+            "speed": 4,
+            "genelength": 4
+        },
+        {
+            "DNA": "BAAAA",
+            "health": 30,
+            "attack": 5,
+            "resist": 3,
+            "speed": 0,
+            "genelength": 5
+        },
+        {
+            "DNA": "BB",
+            "health": 45,
+            "attack": 23,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "AB",
+            "health": 30,
+            "attack": 32,
+            "resist": 0,
+            "speed": 0,
+            "genelength": 2
+        },
+        {
+            "DNA": "BABB",
+            "health": 45,
+            "attack": 6,
+            "resist": 1,
+            "speed": 11,
+            "genelength": 4
+        },
+        {
+            "DNA": "BBBB",
+            "health": 490,
+            "attack": 75,
+            "resist": 3,
+            "speed": 2,
+            "genelength": 4
+        },
+        {
+            "DNA": "BBB",
+            "health": 45,
+            "attack": 42,
+            "resist": 1,
+            "speed": 0,
+            "genelength": 3
+        }
+    ]
+}
